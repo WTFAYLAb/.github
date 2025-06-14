@@ -1,2 +1,1 @@
-# .github
-Well, WTFAYLA?
+# Hey, WTFAYLA?
